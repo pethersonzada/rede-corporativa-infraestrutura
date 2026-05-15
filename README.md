@@ -15,16 +15,32 @@ Tecnologias Utilizadas
 
 ## Topologia
 
-<img width="747" height="389" alt="image" src="https://github.com/user-attachments/assets/4748f0a2-e232-4268-85a7-dcf2f6ae8b09" />
+<img width="548" height="456" alt="image" src="https://github.com/user-attachments/assets/53b10552-99b2-47d0-9263-8884df52b539" />
+
+
 
 Identificação visual dos setores por cor:
 
-* Verde: Engenharia
-* Azul escuro: TI Interno
-* Amarelo: Compras
-* Azul petróleo: Infraestrutura
-* Vermelho: Call Center
-* Rosa: Diretoria
+* Verde limão: Engenharia
+* Verde claro: TI Interno
+* Azul claro/ciano: Compras
+* Azul escuro: Call Center e Diretoria
+* Amarelo: Infraestrutura
+
+#### Engenharia:
+Topologia estrela com switch central conectando PCs, impressoras e servidores.
+#### TI Interno:
+Topologia estrela utilizando um switch principal para distribuição da rede.
+#### Compras:
+Estrutura estrela com todos os dispositivos ligados ao equipamento central.
+#### Call Center:
+Topologia estrela utilizando roteador wireless central conectado aos notebooks e à nuvem/internet.
+#### Diretoria:
+Também utiliza topologia estrela baseada em roteador wireless para conectar os dispositivos do setor.
+#### Infraestrutura:
+Topologia estrela com switch central interligando computadores e periféricos.
+
+A rede inteira utiliza uma topologia híbrida formada por várias topologias estrela independentes distribuídas por setores. Isso permite segmentação da rede, melhor gerenciamento e isolamento de problemas entre departamentos.
 
 ## Plano de Endereçamento
 
