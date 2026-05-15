@@ -1,17 +1,19 @@
 # Rede Corporativa Segmentada com Cisco Packet Tracer
 
 Projeto acadêmico de infraestrutura de rede corporativa com segmentação por VLANs, endereçamento VLSM e expansão wireless WPA2-AES, desenvolvido no Cisco Packet Tracer como parte da disciplina de Redes de Computadores da UNINASSAU.
-Visão Geral
+
+## Visão Geral
 
 A rede atende seis departamentos de uma empresa fictícia, divididos em dois grupos: quatro setores cabeados com switches Cisco 2950-24 e VLANs configuradas, e dois setores wireless operando via roteadores HomeRouter-PT sem switch dedicado.
-Tecnologias Utilizadas
 
-    - VLANs em modo Access para isolamento de tráfego entre dispositivos do mesmo setor
-    - Sub-redes /27 com VLSM e máscara 255.255.255.224
-    - Wi-Fi WPA2-Personal com criptografia AES
-    - DHCP automático nos segmentos wireless
-    - Switches Cisco 2950-24 nos setores cabeados
-    - Roteadores HomeRouter-PT nos setores wireless
+### Tecnologias Utilizadas
+
+- VLANs em modo Access para isolamento de tráfego entre dispositivos do mesmo setor
+- Sub-redes /27 com VLSM e máscara 255.255.255.224
+- Wi-Fi WPA2-Personal com criptografia AES
+- DHCP automático nos segmentos wireless
+- Switches Cisco 2950-24 nos setores cabeados
+- Roteadores HomeRouter-PT nos setores wireless
 
 ## Topologia
 
