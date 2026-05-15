@@ -2,6 +2,10 @@
 
 Projeto acadêmico de infraestrutura de rede corporativa com segmentação por VLANs, endereçamento VLSM e expansão wireless WPA2-AES, desenvolvido no Cisco Packet Tracer como parte da disciplina de Redes de Computadores da UNINASSAU.
 
+#### Documentação Aprofundada
+
+[Infraestrutura de Rede Corporativa com Segmentação VLAN e Expansão Wireless.pdf](https://github.com/user-attachments/files/27804188/Infraestrutura.de.Rede.Corporativa.com.Segmentacao.VLAN.e.Expansao.Wireless.pdf)
+
 ## Visão Geral
 
 A rede atende seis departamentos de uma empresa fictícia, divididos em dois grupos: quatro setores cabeados com switches Cisco 2950-24 e VLANs configuradas, e dois setores wireless operando via roteadores HomeRouter-PT sem switch dedicado.
